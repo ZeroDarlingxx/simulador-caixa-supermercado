@@ -20,12 +20,12 @@ O simulador calcula a média e o desvio-padrão do tempo de atendimento por caix
 Os cenários podem ser comparados para identificar os melhores tempos médios e os mais estáveis
 
 
-5. Por que é estocástico
+## 3. Por que é estocástico
    
 O simulador é estocástico porque recebe valores de tempo de atendimento aleatoriamente a partir da distribuição normal, então cada resultado vai ser ligeiramente diferente, o que, no geral, representa a imprevisibilidade de situações na vida real.
 
 
-7. Observações
+## 4. Observações
    
 Mais caixas reduzem o tempo médio de atendimento.
 
